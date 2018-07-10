@@ -3,3 +3,6 @@ body {
     height: 20em;
     background-color: #74b2f436;
 }
+.greeting {
+    font-family: 'Gaegu', cursive;
+}
