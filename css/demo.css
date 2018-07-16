@@ -30,6 +30,9 @@ a:hover, a:focus {
 	outline: none;
 }
 
+.fox-icon{
+	width: 1.5em;
+}
 .info {
 	display: none;
 	max-width: 300px;
